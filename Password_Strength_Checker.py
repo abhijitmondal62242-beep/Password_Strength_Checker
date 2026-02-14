@@ -45,4 +45,5 @@ def password_checker():
 
 # Run the password checker
 if __name__ == "__main__":
+
     password_checker()
