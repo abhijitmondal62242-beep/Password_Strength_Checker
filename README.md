@@ -18,7 +18,5 @@ Python 3.x
 
 No external libraries required (uses the built-in re and string modules).
 
-### Installation
-Clone the repository:
 
-git clone 
+
